@@ -1,0 +1,7 @@
+REPO_OWNERS=refine-digital,pilatesvia
+
+[refine-digital]
+PROJECT_OWNERS=refinedigital
+
+[pilatesvia]
+PROJECT_OWNERS=pilatesvia
