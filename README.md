@@ -22,6 +22,6 @@ Ex. git commit -m "app: CodeReview App for VS Code"
 
 - git remote add origin git@github.com-{project_owner}:{repo_owner}/{repo_name}.git
 
-Ex. git remote add origin git@github.com-refinedigital:refine-digital/codereview.git
+Ex. git remote add origin git@github.com-refinedigital:refinedigital/codereview.git
 
 - git push -u origin main
